@@ -7,7 +7,7 @@ const Footer = () => {
           <div className="flex justify-between">
             <div>
               <h2 className="text-2xl font-bold mb-4">Abhishek Chaurasia</h2>
-              <p>Intern at Prodigy.</p>
+              <p>Intern at Octanet.</p>
             </div>
             <div>
               <h2 className="text-2xl font-bold mb-4">Quick Links</h2>
